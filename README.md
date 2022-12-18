@@ -7,7 +7,7 @@
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)]()
 
 ## Project Summary
-`Audur` was built by four teammates under 36 hours as part of [`HackGT 9`](https://2022.hack.gt/). The application is a web application that eases the process of sharing audio files with one another while mantaining one's anonymity. When entering the site, user can upload an audio file, providing a title and descripition with it. Following this, the audio will be stored onto the cloud supported by an Amazon EC2 instance and be given a unique identifier. A shareable link will be generated for the TinyURL API that the user can send to others.
+`Audur` was built by four teammates under 36 hours as part of [`HackGT 9`](https://2022.hack.gt/). The application is a web application that eases the process of sharing audio files with one another while mantaining one's anonymity. When entering the site, users can upload an audio file, providing a title and descripition with it. Following this, the audio will be stored onto an Amazon EC2 cloud instance and be associated with a unique identifier. A shareable link is then generated using the TinyURL API which the user can send to others.
 
 <p align="center">
   <img src="./audur.gif" width="600" height="350">
