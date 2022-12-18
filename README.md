@@ -15,3 +15,6 @@
 https://user-images.githubusercontent.com/83044307/208280802-286ce63d-0694-496e-ade3-fbdfd78a3524.mp4
 
 ## Credits
+- [Amit Kulkarni (Full Stack Developer)](https://github.com/amitkulk123)
+- [Preetham Thelluri (Backend Developer)](https://github.com/preethamcoder)
+- [Rian Rahman (Frontend Developer)](https://github.com/RiRah123)
