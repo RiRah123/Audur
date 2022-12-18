@@ -7,6 +7,6 @@
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)]()
 
 ## Project Summary
-Audur was built by four teammates under 36 hours as part of <a href="https://2022.hack.gt/">'HackGT 9'</a>. The application is a web application that eases the process of sharing audio files with one another while mantaining one's anonymity.
+'Audur' was built by four teammates under 36 hours as part of ['HackGT'](https://2022.hack.gt/). The application is a web application that eases the process of sharing audio files with one another while mantaining one's anonymity.
 
 ## Credits
