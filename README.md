@@ -9,6 +9,10 @@
 ## Project Summary
 `Audur` was built by four teammates under 36 hours as part of [`HackGT 9`](https://2022.hack.gt/). The application is a web application that eases the process of sharing audio files with one another while mantaining one's anonymity. When entering the site, user can upload an audio file, providing a title and descripition with it. Following this, the audio will be stored onto the cloud supported by an Amazon EC2 instance and be given a unique identifier. A shareable link will be generated for the TinyURL API that the user can send to others.
 
+<p align="center">
+  <img src="./audur.gif" width="700" height="350">
+</p>
+
 ## Why We Built Audur?
 In creating the idea for Audur, we were heavily inspired by the popular image-sharing service called Imgur which allows users to share images without the need of creating an account or logging in beforehand. Although services like Google Drive and Soundcloud are popular means of sharing files, they come with the downside of having to login - thereby tying the files to the user, which can potentially leave the user’s information exposed. So, we wanted to create an alternative way to share audio files that is both quick and more secure.
 
